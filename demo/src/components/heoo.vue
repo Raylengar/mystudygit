@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-10-12 00:04:30
- * @LastEditTime: 2020-10-12 00:23:18
+ * @LastEditTime: 2020-10-12 00:25:38
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \demod:\mydemo\demo\src\components\HelloWorld.vue
@@ -82,7 +82,6 @@ h1, h2 {
   font-weight: normal;
 }
 ul {
-  list-style-type: none;
   padding: 0;
 }
 li {
